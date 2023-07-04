@@ -1,0 +1,125 @@
+body {
+	align-items: center;
+}
+
+form {
+	background-color: #ccccff;
+}
+
+.title {
+	height: 60px;
+	width: 100%;
+	border: 2px solid white;
+	text-align: center;
+}
+
+.first-name-div {
+	height: 60px;
+	width: 50%;
+	border: 2px solid white;
+	display: inline-block;
+	font-size: larger;
+}
+
+.last-name-div {
+	height: 60px;
+	width: 49%;
+	border: 2px solid white;
+	display: inline-block;
+	float: right;
+	font-size: larger;
+}
+
+.email-div {
+	height: 60px;
+	width: 50%;
+	border: 2px solid white;
+	display: inline-block;
+	font-size: larger;
+}
+
+.zip-code-div {
+	height: 60px;
+	width: 49%;
+	border: 2px solid white;
+	display: inline-block;
+	float: right;
+	font-size: larger;
+}
+
+.username-div {
+	height: 60px;
+	width: 100%;
+	border: 2px solid white;
+	font-size: larger;
+}
+
+.password-div {
+	height: 60px;
+	width: 50%;
+	border: 2px solid white;
+	display: inline-block;
+	font-size: larger;
+}
+
+.confirm-password-div {
+	height: 60px;
+	width: 49%;
+	border: 2px solid white;
+	display: inline-block;
+	float: right;
+	font-size: larger;
+}
+
+.checkbox-div {
+	height: 86px;
+	width: 100%;
+	border: 2px solid white;
+	font-size: larger;
+}
+
+.radiobtn-div {
+	height: 67px;
+	width: 100%;
+	border: 2px solid white;
+	font-size: larger;
+}
+
+.buttons-div {
+	height: 60px;
+	width: 100%;
+	border: 2px solid white;
+	font-size: larger;
+}
+
+.position-text-boxes {
+	margin-left: 2%;
+	margin-top: 1%;
+	display: inline;
+}
+
+.position-username {
+	margin-left: 1%;
+	margin-top: 1%;
+	display: inline;
+}
+
+.position-checkbox {
+	margin-left: 1%;
+}
+
+.position-radiobtn {
+	margin-left: 1%;
+}
+
+.position-btn {
+	margin-left: 42%;
+	margin-top: 2%;
+}
+
+.error {
+	color: #ff3860;
+	font-size: 15px;
+	height: 13px;
+	display: inline;
+}
